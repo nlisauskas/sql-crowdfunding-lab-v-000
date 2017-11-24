@@ -19,13 +19,13 @@ INSERT INTO users (name, age) VALUES ("Genevieve", 23);
 INSERT INTO users (name, age) VALUES ("Anna", 24);
 INSERT INTO users (name, age) VALUES ("Annie", 30);
 
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Cat", "Animals", 100, "January 1, 2010", "August 28, 2015")
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "Animals", 100, "January 1, 2010", "August 28, 2015")
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Mouse", "Animals", 100, "January 1, 2010", "August 28, 2015")
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Fox", "Animals", 100, "January 1, 2010", "August 28, 2015")
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Eagle", "Animals", 100, "January 1, 2010", "August 28, 2015")
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Giraffe", "Animals", 100, "January 1, 2010", "August 28, 2015")
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Lion", "Animals", 100, "January 1, 2010", "August 28, 2015")
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Hamster", "Animals", 100, "January 1, 2010", "August 28, 2015")
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Rabbit", "Animals", 100, "January 1, 2010", "August 28, 2015")
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Gator", "Animals", 100, "January 1, 2010", "August 28, 2015")
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Cat", "Animals", 100, "January 1, 2010", "August 28, 2015");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog", "Animals", 100, "January 1, 2010", "August 28, 2015");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Mouse", "Animals", 100, "January 1, 2010", "August 28, 2015");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Fox", "Animals", 100, "January 1, 2010", "August 28, 2015");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Eagle", "Animals", 100, "January 1, 2010", "August 28, 2015");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Giraffe", "Animals", 100, "January 1, 2010", "August 28, 2015");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Lion", "Animals", 100, "January 1, 2010", "August 28, 2015");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Hamster", "Animals", 100, "January 1, 2010", "August 28, 2015");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Rabbit", "Animals", 100, "January 1, 2010", "August 28, 2015");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Gator", "Animals", 100, "January 1, 2010", "August 28, 2015");
